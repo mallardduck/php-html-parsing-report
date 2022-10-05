@@ -1,0 +1,2 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>This is some fancy-&eth;&#159;&#146;&#131; Markdown/WYSIWYG text with surrounding &lt;p&gt; tags disabled. &eth;&#159;&#142;&#137;</p></body></html>

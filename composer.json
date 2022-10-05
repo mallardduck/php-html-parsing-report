@@ -1,0 +1,30 @@
+{
+    "name": "mallardduck/php-html-parsing-report",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Mallardduck\\PhpHtmlParsingReport\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MallardDuck",
+            "email": "self@danpock.me"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "pestphp/pest": "^1.22",
+      "ext-dom": "*"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    },
+    "require": {
+        "symfony/var-dumper": "^6.1",
+        "wa72/htmlpagedom": "^3.0",
+        "spatie/pest-plugin-snapshots": "^1.1"
+    }
+}
